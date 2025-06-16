@@ -1,0 +1,13 @@
+C:\Users\i4989\source\proyectoU2\CurpLibrery\bin\Debug\net8.0-windows\CurpLibrery.deps.json
+C:\Users\i4989\source\proyectoU2\CurpLibrery\bin\Debug\net8.0-windows\CurpLibrery.dll
+C:\Users\i4989\source\proyectoU2\CurpLibrery\bin\Debug\net8.0-windows\CurpLibrery.pdb
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\CurpLibrery.Curp.resources
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\CurpLibrery.csproj.GenerateResource.cache
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\CurpLibrery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\CurpLibrery.AssemblyInfoInputs.cache
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\CurpLibrery.AssemblyInfo.cs
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\CurpLibrery.csproj.CoreCompileInputs.cache
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\CurpLibrery.dll
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\refint\CurpLibrery.dll
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\CurpLibrery.pdb
+C:\Users\i4989\source\proyectoU2\CurpLibrery\obj\Debug\net8.0-windows\ref\CurpLibrery.dll

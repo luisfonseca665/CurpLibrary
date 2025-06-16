@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurpLibrery", "CurpLibrery.csproj", "{B8F240A2-B2AE-4735-A5EF-2FC9C74A3309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebasv2", "..\Pruebasv2\Pruebasv2.csproj", "{7BB279AD-6C2B-4A42-BA28-233554C8D231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F240A2-B2AE-4735-A5EF-2FC9C74A3309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F240A2-B2AE-4735-A5EF-2FC9C74A3309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F240A2-B2AE-4735-A5EF-2FC9C74A3309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F240A2-B2AE-4735-A5EF-2FC9C74A3309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB279AD-6C2B-4A42-BA28-233554C8D231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB279AD-6C2B-4A42-BA28-233554C8D231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB279AD-6C2B-4A42-BA28-233554C8D231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB279AD-6C2B-4A42-BA28-233554C8D231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C43E80-DE28-4548-9137-C684BA93CD7E}
+	EndGlobalSection
+EndGlobal
